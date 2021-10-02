@@ -1,0 +1,1 @@
+* Revisiting numpy fundamentals before moving on to the pandas exercises
